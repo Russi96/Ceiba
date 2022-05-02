@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ceiba</string>
+    <string name="edit_text_search">Buscar usuario</string>
+    <string name="btn_view_posts">Ver publicaciones</string>
+    <string name="btn_view_comments">Ver comentarios</string>
+    <string name="generic_message_progress">Por favor espere…</string>
+    <string name="generic_error">Ha ocurrido un error inesperado</string>
+    <string name="accept">Aceptar</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="search">Buscar</string>
+    <string name="emptyList">Lista vacia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
